@@ -1,6 +1,8 @@
 # badge-size <a href="https://vercel.com?utm_source=badge-size&utm_campaign=oss"><img align="right" src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" alt="Powered by Vercel" /></a>
 
 Updated on 8/6 at 10:41!!!!
+Another update...
+10:44: start versioning at 2.0.0
 
 > Displays the size of a given file in your repository.
 
