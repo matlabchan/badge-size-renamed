@@ -1,5 +1,7 @@
 # badge-size <a href="https://vercel.com?utm_source=badge-size&utm_campaign=oss"><img align="right" src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" alt="Powered by Vercel" /></a>
 
+Updated on 8/6 at 10:41!!!!
+
 > Displays the size of a given file in your repository.
 
 `badge-size` allows you to display in real time the size of a given file which lives in your repository.
