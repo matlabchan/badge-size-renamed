@@ -8,6 +8,8 @@ SECOND trying to see if a commit to the main branch triggers a build when it sho
 
 Third w/ commit default branch now revert to take from main -- 3:19pm
 
+Now -- C3 Local Test default branch 812 111
+
 > Displays the size of a given file in your repository.
 
 `badge-size` allows you to display in real time the size of a given file which lives in your repository.
